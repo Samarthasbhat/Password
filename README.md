@@ -7,3 +7,6 @@ Minimum password length is 6 upto 15 characters maximum length.
 After the generation of password the password can be copied to the clipboard for further use.
 
 Languages used HTML, CSS, javascript and jquery CDN.
+
+
+![output](https://github.com/Samarthasbhat/Random-password-generator/blob/main/random%20password%20generator/output.png)
