@@ -8,5 +8,6 @@ After the generation of password the password can be copied to the clipboard for
 
 Languages used HTML, CSS, javascript and jquery CDN.
 
+# RESULT
 
 ![output](https://github.com/Samarthasbhat/Random-password-generator/blob/main/random%20password%20generator/output.png)
